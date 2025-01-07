@@ -1,5 +1,8 @@
 # Beming-dev
 
+(블로그)[https://beming-dev.github.io/]
+(자기소개)[https://beming-dev.github.io/resume]
+
 <!--내용 부분-->
 <h2>Tech Stack</h3>
 <div>
