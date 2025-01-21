@@ -1,7 +1,8 @@
 # Beming-dev
 
-[블로그](https://beming-dev.github.io/) </br>
-[자기소개](https://beming-dev.github.io/resume)
+[블로그](https://beming-dev.github.io/) 
+
+[이력서](https://beming-dev.github.io/resume)
 
 <!--내용 부분-->
 <h2>Tech Stack</h2>
@@ -41,6 +42,14 @@
   <div>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white"> 
+  </div>
+</div>
+
+<div align="center">
+  <span>Studying/span>
+  <div>
+    <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white" />
   </div>
 </div>
 
