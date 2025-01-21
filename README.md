@@ -4,7 +4,7 @@
 [자기소개](https://beming-dev.github.io/resume)
 
 <!--내용 부분-->
-<h2>Tech Stack</h3>
+<h2>Tech Stack</h2>
 <div align="center">
   <div>FrontEnd</div>
   <div>
@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   </div>
 </div>
+
+<br>
 
 <div align="center">
   <div>Backend</div>
@@ -31,6 +33,8 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   </div>
 </div>
+
+<br>
 
 <div align="center">
   <span>Etc.</span>
