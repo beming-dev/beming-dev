@@ -1,5 +1,7 @@
 # Beming-dev
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beming-dev&theme=tokyonight&show_icons=true)](https://github.com/beming-dev/github-readme-stats)
+
 [블로그](https://beming-dev.github.io/) 
 
 [이력서](https://beming-dev.github.io/resume)
@@ -45,13 +47,21 @@
   </div>
 </div>
 
+<br>
+
 <div align="center">
-  <span>Studying/span>
+  <span>Studying</span>
   <div>
     <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white" />
   </div>
 </div>
+
+<br>
+
+<h1>Algorithm</h1>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=me081004)](https://solved.ac/me081004)
 
 <!--
 **beming-dev/beming-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
