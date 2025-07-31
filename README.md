@@ -7,11 +7,13 @@
   사용자의 요구사항과 의사소통을 중요시하는 개발자 채민관 입니다.
 </span>
 
+[이력서](https://beming-dev.github.io/resume)
+
+<br/>
+<br/>
 <span>
   Gatsby기반으로 자체 제작한 <a href="https://beming-dev.github.io/">블로그</a>를 운영중입니다.
 </span>
-
-[이력서](https://beming-dev.github.io/resume)
 
 <!--내용 부분-->
 <h2>Tech Stack</h2>
