@@ -2,6 +2,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beming-dev&theme=tokyonight&show_icons=true)](https://github.com/beming-dev/github-readme-stats)
 
+<span>
+  코드 간 의존성을 낮추어 유지 보수가 쉬운 아키텍처를 설계하기 위해 고민하고, <br/>
+  사용자의 요구사항과 의사소통을 중요시하는 개발자 채민관 입니다.
+</span>
+
 [블로그](https://beming-dev.github.io/) 
 
 [이력서](https://beming-dev.github.io/resume)
